@@ -10,7 +10,7 @@
 
       <Snippets>
             <Category label="Test Snippets">
-               <Location uri="./sgplot/snippets.xml" />
+               <Location uri="./SGplot/snippets.xml" />
             </Category>
       </Snippets>
 </Repository>
